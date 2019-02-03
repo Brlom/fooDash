@@ -1,7 +1,9 @@
 # Final Project 
 
 ## fooDash
-An Augmented Reality game where the user selects any flat surface to play on. The object of the game is for the character to get to a safe zone whilst dodging falling objects and staying on the playing surface. The back end is written in JavaScript using a mobile and web application development platform called Firebase, as well as a flexible and scalable database called Cloud Firestore. The front end is written using a JavaScript framework called React-Native, and an AR/VR platform called Viro Media  The app can currently only be run in a development environment. 
+An Augmented Reality game where the user selects any flat surface to play on. The user plays a hungry emoji with a sweet-tooth. The aim of the game is to eat as many treats as possible, whilst avoiding healthy food. The player starts with a few lives which can be lost by eating healthy food or falling off the game board. 
+
+The back end is written in JavaScript using a mobile and web application development platform called Firebase, as well as a flexible and scalable database called Cloud Firestore. The front end is written using a JavaScript framework called React-Native, and an AR/VR platform called Viro React. The app can be run in a development environment, or on a mobile device. 
 
 ### Getting Started
 
@@ -19,7 +21,7 @@ An Augmented Reality game where the user selects any flat surface to play on. Th
 
 ### Installing Viro Media on your device
 
-You will need to have the Viro Media app installed on your device in order to test your code.
+You will need to have the Viro React app installed on your device in order to test your code.
 
 Go to the app store on your device, search for 'Viro Media' and download to your device.
 
@@ -70,7 +72,7 @@ You can now either choose to run the app using the Viro Media App, or through Xc
 - Cloud Firestore
 - Node.js
 - React Native
-- Viro Media
+- Viro React
 
 ### Versioning
 Github has been used for versioning. For the versions available, see the tags on this repository.
